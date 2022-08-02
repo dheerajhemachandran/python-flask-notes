@@ -24,3 +24,4 @@ Install my project with pip
        pip install -r requirements.txt
 ```
     
+# python-flask-social-app
